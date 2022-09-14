@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+    {
+    "source": {
+    "id": "googlenews",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Homes destroyed by Mill Fire near Weed; injuries reported, California highway closed  Sacramento Bee",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9jYWxpZm9ybmlhL2ZpcmVzL2FydGljbGUyNjUyNjQ2NTYuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "20220903T02:34:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sam Meredith, Amanda Macias",
+    "title": "Gazprom halts gas supplies to Europe; UN team at Ukraine nuclear plant ‘not going anywhere’  CNBC",
+    "description": "The head of the U.N.'s nuclear watchdog is adamant that the team will stay at the Russianoccupied Zaporizhzhia nuclear plant.",
+    "url": "https://www.cnbc.com/2022/09/02/russiaukraineliveupdates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071130741662101277818gettyimages1242854417AFP_32HF7H8.jpeg?v=1662101366&w=1920&h=1080",
+    "publishedAt": "20220903T00:58:00Z",
+    "content": "Russia's energy influence over Europe appears to be coming to an end, energy and political analysts say, potentially alleviating the risk of further supply disruptions.\r\nEurope in recent months has e… [+928 chars]"
+    },
+    {
+    "source": {
+    "id": "thewashingtonpost",
+    "name": "The Washington Post"
+    },
+    "author": "Gene Wang, Ava Wallace",
+    "title": "Serena Williams U.S. Open live updates  The Washington Post",
+    "description": "Serena Williams looks to continue her magical run in Flushing Meadows. Follow along for live updates.",
+    "url": "https://www.washingtonpost.com/sports/2022/09/02/usopenserenawilliams/",
+    "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/MZBP4UBLCYI63KIK7TSACXP4R4.jpg&w=1440",
+    "publishedAt": "20220903T00:39:43Z",
+    "content": "Serena Williams continued to dominate the second set, taking a 30 lead against Ajla Tomljanovic after dropping the first set, 75, despite being two points from winning while on serve."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Adam B. Vary",
+    "title": "‘The Rings of Power’ Star Morfydd Clark Defends Galadriel as Action Hero: ‘Her Serenity Is Hard Earned’  Variety",
+    "description": "“The Lord of the Rings: The Rings of Power” is as big a TV show as TV shows have ever been, with a recordsetting budget spent on recreating J.R.R. Tolkien’s Middleearth during the Second Age, and a cast of nearly two dozen series regulars and dozens more fe…",
+    "url": "https://variety.com/2022/tv/news/ringsofpowermorfyddclarkgaladrielwarriornewzealand1235358876/",
+    "urlToImage": "https://variety.com/wpcontent/uploads/2022/09/CREDIT_BEN_ROTHSTEIN_PRIME_VIDEO_00070_R2.jpg?w=1024",
+    "publishedAt": "20220903T00:19:00Z",
+    "content": "“The Lord of the Rings: The Rings of Power” is as big a TV show as TV shows have ever been, with a recordsetting budget spent on recreating J.R.R. Tolkien’s Middleearth during the Second Age, and a… [+9478 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jacob Lev and Steve Almasy, CNN",
+    "title": "College Football Playoff to expand to include 12 teams no later than 2026  CNN",
+    "description": "The College Football Playoff Board of Managers has unanimously approved expanding the current fourteam playoff format to include 12 schools, the board announced Friday.",
+    "url": "https://www.cnn.com/2022/09/02/sport/collegefootballexpandedplayoffspt/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/22011100362247collegefootballnationalchampionship2022supertease.jpg",
+    "publishedAt": "20220903T00:01:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "associatedpress",
+    "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Injuries, destruction reported in Northern California blaze  The Associated Press",
+    "description": "WEED, Calif. (AP) — A fastmoving fire in Northern California injured several people, a fire official said, and destroyed multiple homes Friday as thousands of residents were forced to leave immediately, jamming roadways at the start of a sweltering Labor Day…",
+    "url": "https://apnews.com/article/wildfirescalifornialosangelesfiresdepartmentofforestryandfireprotection7b1c058d29c99a6630a6bfdf86b4f994",
+    "urlToImage": "https://storage.googleapis.com/afsprod/media/11b7c0fc435e49fe8a33221e4998be6b/2000.jpeg",
+    "publishedAt": "20220902T23:48:45Z",
+    "content": "WEED, Calif. (AP) A fastmoving fire in Northern California injured several people, a fire official said, and destroyed multiple homes Friday as thousands of residents were forced to leave immediatel… [+6350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "William Hughes",
+    "title": "Timothée Chalamet crowned the new King Of Claps after Bones And All gets 8.5minute Venice ovation  The A.V. Club",
+    "description": "Luca Guadagnino's cannibal romance is now the record holder for prolonged applause at this year's festival",
+    "url": "https://www.avclub.com/bonesandallchalametveniceovation1849492760",
+    "urlToImage": "https://i.kinjaimg.com/gawkermedia/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e4a7c4b8042f72cfafc870838e5c3006.jpg",
+    "publishedAt": "20220902T22:54:00Z",
+    "content": "Gather round, children, for the prophecy has borne fruit at last: Timothée Chalamet has just been crowned our brand new King Of Claps!\r\nThats right: Chalametwho already crashed our timelines earlier … [+1802 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Donovan Mitchell trade grades: Cavs load up for present and future; Jazz add to massive haul of future assets  CBS Sports",
+    "description": "Cleveland surprised the NBA with a blockbuster trade for the threetime AllStar",
+    "url": "https://www.cbssports.com/nba/news/donovanmitchelltradegradescavsloadupforpresentandfuturejazzaddtomassivehauloffutureassets/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/21/7a510195ec154f798db6ae03b6490654/thumbnail/1200x675/ca5be2e3399563e951a67be3af0abf2d/donovanmitchell061121.jpg",
+    "publishedAt": "20220902T22:39:16Z",
+    "content": "Kevin Durant rescinded his trade request. LeBron James signed an extension with the Lakers. Kyrie Irving appears to be staying in Brooklyn. The NBA offseason had reached an anticlimactic placidity ov… [+6660 chars]"
+    },
+    {
+    "source": {
+    "id": "thewashingtonpost",
+    "name": "The Washington Post"
+    },
+    "author": "Dan Lamothe",
+    "title": "Marines at Biden speech prompt debate about politicizing the military  The Washington Post",
+    "description": "Biden delivered his speech on the threa to democracy as two Marines in dress blues stood in the background. Critics question the presence of the Marines.",
+    "url": "https://www.washingtonpost.com/nationalsecurity/2022/09/02/bidenmarinesbackdropdemocracyspeech/",
+    "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/AUEVO5BKOYI63KIK7TSACXP4R4.jpg&w=1440",
+    "publishedAt": "20220902T22:38:45Z",
+    "content": "Comment on this story\r\nThe White Houses decision to flank President Biden with U.S. Marines as he delivered a speech raising alarm about the authoritarian impulses of former president Donald Trump an… [+5077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Jesse Rogers",
+    "title": "Detroit Tigers' Austin Meadows to miss rest of year due to injuries, mental health  ESPN",
+    "description": "Austin Meadows said he is \"struggling with my mental health\" in addition to a myriad of previous injuries and will remain out for the rest of the year.",
+    "url": "https://www.espn.com/mlb/story/_/id/34510080/detroittigersaustinmeadowsmissrestyeardueinjuriesmentalhealth",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0902%2Fr1056514_1024x576_16%2D9.jpg",
+    "publishedAt": "20220902T22:25:08Z",
+    "content": "Detroit Tigers outfielder Austin Meadows will remain out of the lineup for the remainder of the season as he revealed in a post on Friday that he's \"struggling with my mental health\" in addition to a… [+1691 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jamiel Lynch, CNN",
+    "title": "Memphis police are looking for school teacher who was abducted while out for early morning jog  CNN",
+    "description": "Memphis Police are searching for school teacher Eliza 'Liza' Fletcher who they say was abducted while she was out on a jog Friday morning.",
+    "url": "https://www.cnn.com/2022/09/02/us/memphispolicemissingteacherelizaelizafletcherjog/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/22090214491202memphismissingteacherrunningsupertease.jpg",
+    "publishedAt": "20220902T22:14:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SheKnows"
+    },
+    "author": "Alyssa K. Davis",
+    "title": "Brittany Aldean’s Transphobic Comment Is Now Affecting Jason Aldean’s Career  Yahoo Life",
+    "description": "In the days following Brittany Aldean’s viral transphobic comments and the social media storm that came after, Jason Aldean has been dropped by his PR firm, which he had been associated with for the past 17 years of his career. Related story Jason Aldean Had …",
+    "url": "https://www.sheknows.com/entertainment/articles/2619030/brittanyaldeantransphobicjasonaldeanprcompany/",
+    "urlToImage": "https://www.sheknows.com/wpcontent/uploads/2022/09/JasonBrittanyAldean.jpg?w=1024",
+    "publishedAt": "20220902T21:29:55Z",
+    "content": "In the days following Brittany Aldean’s viral transphobic comments and the social media storm that came after, Jason Aldean has been dropped by his PR firm, which he had been associated with for the … [+3321 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Emily Crane",
+    "title": "Argentina VP Cristina Fernandez de Kirchner's wouldbe killer had 100 bullets in home  New York Post ",
+    "description": "Fernando Andres Sabag Montiel, a 35yearold Brazilian, was taken into custody after he was caught on camera pointing the loaded gun in Fernandez de Kirchner’s face outside her Buenos Aires h…",
+    "url": "https://nypost.com/2022/09/02/argentinavpcristinafernandezdekirchnersattackerhadstashofbullets/",
+    "urlToImage": "https://nypost.com/wpcontent/uploads/sites/2/2022/09/argentinaassassinationattemptfeatured.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "20220902T21:13:00Z",
+    "content": "The wouldbe assassin who allegedly pulled a gun on Argentinas Vice President Cristina Fernandez de Kirchner had 100 bullets stashed in his home when police raided it in the wake of the shock attack.… [+3804 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Russia to bury Gorbachev, darling of the West, with a shrug  Reuters",
+    "description": "Mikhail Gorbachev, the Soviet leader beloved of the West who lived long enough to see all the reforms he had championed in his homeland undone, will be buried on Saturday without state honours or the presence of the current Kremlin incumbent.",
+    "url": "https://www.reuters.com/world/russiaburygorbachevdarlingwestwithshrug20220902/",
+    "urlToImage": "https://www.reuters.com/resizer/NVK2OaEvoMmg2Foj4lAyfKsONQU=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/AJ53VJCWXFI63MCUBFKKNLAPOA.jpg",
+    "publishedAt": "20220902T21:08:00Z",
+    "content": "Sept 3 (Reuters)  Mikhail Gorbachev, the Soviet leader beloved of the West who lived long enough to see all the reforms he had championed in his homeland undone, will be buried on Saturday without s… [+3059 chars]"
+    },
+    {
+    "source": {
+    "id": "financialtimes",
+    "name": "Financial Times"
+    },
+    "author": "Harriet Clarfelt, Jaren Kerr",
+    "title": "US stocks close lower for third straight week on rate concerns  Financial Times",
+    "description": "Nasdaq index racks up longest losing streak since 2019 after jobs report fails to dent Federal Reserve expectations",
+    "url": "https://www.ft.com/content/842880b3ef7b4afb8f46ceb60f44601a",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f2738155da24e13bb1d67f37621652f.png?source=nextopengraph&fit=scaledown&width=900",
+    "publishedAt": "20220902T21:02:28Z",
+    "content": "US stocks had another bruising week, with the techheavy Nasdaq Composite ending the day down 1.3 per cent to mark a sixth consecutive daily decline in its longest losing streak in more than three ye… [+3504 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WCVB Boston"
+    },
+    "author": null,
+    "title": "Massachusetts health officials announce second human case of West Nile virus in 2022  WCVB Boston",
+    "description": "The risk of human infection with WNV is moderate to high in the Greater Boston area according to health officials.",
+    "url": "https://www.wcvb.com/article/massachusettssecondhumancasewestnilevirussuffolkcounty/41068744",
+    "urlToImage": "https://kubrick.htvapps.com/htvprodmedia.s3.amazonaws.com/images/apmosquitoesgeneric1565314336.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+    "publishedAt": "20220902T20:26:00Z",
+    "content": "BOSTON —The Massachusetts Department of Public Health said a second human case of West Nile virus has been reported in the state this year.\r\nA man in his 70s was exposed to the virus in Suffolk Count… [+1087 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jacqueline Howard and Jorge Engels, CNN",
+    "title": "Pneumonia cases, including three deaths, with no clear cause under investigation in Argentina  CNN",
+    "description": "Three people have died and several others in Argentina have become sick after developing pneumonia from an unexplained cause, the World Health Organization told CNN on Friday.",
+    "url": "https://www.cnn.com/2022/09/02/health/argentinaunexplainedpneumonia/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220902140741whologo2021filesupertease.jpg",
+    "publishedAt": "20220902T20:01:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kotaku"
+    },
+    "author": "Ari Notis",
+    "title": "Before You Start: Five Settings To Change In The Last Of Us Part I  Kotaku",
+    "description": "Everything you need to know before diving into Naughty Dog’s PS5 remake",
+    "url": "https://kotaku.com/thelastofuspartoneps5settingsaccessibility1849491523",
+    "urlToImage": "https://i.kinjaimg.com/gawkermedia/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a02fa8fe0e2354d1de2c44d93b23e073.jpg",
+    "publishedAt": "20220902T19:30:00Z",
+    "content": "At this rate, well never see the last of The Last of Us. Ahead of a highprofile HBO adaptation, Naughty Dog released a toptobottom remake, called The Last of Us Part I, for PlayStation 5.\r\nMake no… [+4531 chars]"
+    },
+    {
+    "source": {
+    "id": "thewallstreetjournal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Sarah Chaney Cambon and David Harrison",
+    "title": "August Jobs Report Shows Labor Market Has Cooled But Remains Solid  The Wall Street Journal",
+    "description": "U.S. employers added jobs in August at a slower but still solid pace in a tight labor market. The jobless rate rose to 3.7%.",
+    "url": "https://www.wsj.com/articles/augustjobsreportunemploymentrateeconomygrowth202211662062706",
+    "urlToImage": "https://images.wsj.net/im614905/social",
+    "publishedAt": "20220902T19:14:00Z",
+    "content": "The tight U.S. labor market loosened some in August as employers hired fewer workers, more people sought work and \r\nwages rose at a slower pace.Employers added 315,000 jobs last month, down from the … [+272 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Chobani withdraws IPO plans after yogurt maker filed to go public in November  CNBC",
+    "description": "The food and beverage company filed to go public on the Nasdaq Exchange using the ticker \"CHO\" in November.",
+    "url": "https://www.cnbc.com/2022/09/02/chobanipullsplanforipo.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/1069076431625671209144gettyimages1233851077775679377.jpeg?v=1625671288&w=1920&h=1080",
+    "publishedAt": "20220902T19:05:52Z",
+    "content": "Chobani is withdrawing its plans for an initial public offering, according to a regulatory filing on Friday.\r\nThe food and beverage company filed to go public on the Nasdaq Exchange using the ticker … [+1753 chars]"
+    }
+    ]
+    }
